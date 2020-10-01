@@ -1,5 +1,5 @@
 # BestNews
-news app for android gets news articles from newsapi.com
+News App for android gets news articles from newsapi.com
 
 Made using Java in Android Studio.
 
